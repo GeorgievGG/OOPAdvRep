@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.10. Interfaces Excercise\10. ExplicitInterfaces\bin\Debug\_10.ExplicitInterfaces.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.10. Interfaces Excercise\10. ExplicitInterfaces\bin\Debug\_10.ExplicitInterfaces.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.10. Interfaces Excercise\10. ExplicitInterfaces\bin\Debug\_10.ExplicitInterfaces.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.10. Interfaces Excercise\10. ExplicitInterfaces\obj\Debug\10. ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.10. Interfaces Excercise\10. ExplicitInterfaces\obj\Debug\_10.ExplicitInterfaces.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.10. Interfaces Excercise\10. ExplicitInterfaces\obj\Debug\_10.ExplicitInterfaces.pdb

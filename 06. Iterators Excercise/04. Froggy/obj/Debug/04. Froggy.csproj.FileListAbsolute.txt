@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\04. Froggy\bin\Debug\_04.Froggy.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\04. Froggy\bin\Debug\_04.Froggy.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\04. Froggy\bin\Debug\_04.Froggy.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\04. Froggy\obj\Debug\04. Froggy.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\04. Froggy\obj\Debug\_04.Froggy.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\04. Froggy\obj\Debug\_04.Froggy.pdb

@@ -1,0 +1,21 @@
+C:\Users\E6420\Documents\Visual Studio 2015\Projects\C#Fundamentals\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\E6420\Documents\Visual Studio 2015\Projects\C#Fundamentals\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\E6420\Documents\Visual Studio 2015\Projects\C#Fundamentals\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\E6420\Documents\Visual Studio 2015\Projects\C#Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\E6420\Documents\Visual Studio 2015\Projects\C#Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\E6420\Documents\Visual Studio 2015\Projects\C#Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\User\Desktop\ProjectsForUpload\C#Fundamentals\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\User\Desktop\ProjectsForUpload\C#Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\User\Desktop\ProjectsForUpload\C#Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C-Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C-Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\C-Fundamentals\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C-Fundamentals\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\C-Fundamentals\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\C-Fundamentals\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\BashSoft\BashSoft\bin\Debug\BashSoft.pdb

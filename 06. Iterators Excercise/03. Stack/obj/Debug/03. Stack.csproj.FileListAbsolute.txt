@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\03. Stack\bin\Debug\_03.Stack.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\03. Stack\bin\Debug\_03.Stack.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\03. Stack\bin\Debug\_03.Stack.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\03. Stack\obj\Debug\03. Stack.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\03. Stack\obj\Debug\_03.Stack.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\03. Stack\obj\Debug\_03.Stack.pdb

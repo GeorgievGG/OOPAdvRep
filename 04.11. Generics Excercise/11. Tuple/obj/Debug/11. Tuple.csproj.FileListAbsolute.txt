@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.11. Generics Excercise\11. Tuple\bin\Debug\_11.Tuple.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.11. Generics Excercise\11. Tuple\bin\Debug\_11.Tuple.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.11. Generics Excercise\11. Tuple\bin\Debug\_11.Tuple.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.11. Generics Excercise\11. Tuple\obj\Debug\11. Tuple.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.11. Generics Excercise\11. Tuple\obj\Debug\_11.Tuple.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.11. Generics Excercise\11. Tuple\obj\Debug\_11.Tuple.pdb

@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.05. Interfaces Excercise\05. Border Control\bin\Debug\_05.Border_Control.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.05. Interfaces Excercise\05. Border Control\bin\Debug\_05.Border_Control.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.05. Interfaces Excercise\05. Border Control\bin\Debug\_05.Border_Control.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.05. Interfaces Excercise\05. Border Control\obj\Debug\05. Border Control.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.05. Interfaces Excercise\05. Border Control\obj\Debug\_05.Border_Control.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.05. Interfaces Excercise\05. Border Control\obj\Debug\_05.Border_Control.pdb

@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\06. StrategyPattern\bin\Debug\_06.StrategyPattern.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\06. StrategyPattern\obj\Debug\06. StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\06. StrategyPattern\bin\Debug\_06.StrategyPattern.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\06. StrategyPattern\bin\Debug\_06.StrategyPattern.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\06. StrategyPattern\obj\Debug\_06.StrategyPattern.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\06. StrategyPattern\obj\Debug\_06.StrategyPattern.pdb

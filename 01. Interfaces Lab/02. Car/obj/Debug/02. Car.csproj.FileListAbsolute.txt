@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\01. Interfaces Lab\02. Car\bin\Debug\_02.Car.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\01. Interfaces Lab\02. Car\obj\Debug\02. Car.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\01. Interfaces Lab\02. Car\bin\Debug\_02.Car.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\01. Interfaces Lab\02. Car\bin\Debug\_02.Car.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\01. Interfaces Lab\02. Car\obj\Debug\_02.Car.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\01. Interfaces Lab\02. Car\obj\Debug\_02.Car.pdb

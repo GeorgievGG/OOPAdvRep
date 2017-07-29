@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02. 03. Interfaces Excercise\03. Ferrari\bin\Debug\_03.Ferrari.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02. 03. Interfaces Excercise\03. Ferrari\bin\Debug\_03.Ferrari.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02. 03. Interfaces Excercise\03. Ferrari\bin\Debug\_03.Ferrari.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02. 03. Interfaces Excercise\03. Ferrari\obj\Debug\03. Ferrari.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02. 03. Interfaces Excercise\03. Ferrari\obj\Debug\_03.Ferrari.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02. 03. Interfaces Excercise\03. Ferrari\obj\Debug\_03.Ferrari.pdb

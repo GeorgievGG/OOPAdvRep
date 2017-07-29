@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\05. ComparingObjects\bin\Debug\_05.ComparingObjects.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\05. ComparingObjects\obj\Debug\05. ComparingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\05. ComparingObjects\bin\Debug\_05.ComparingObjects.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\05. ComparingObjects\bin\Debug\_05.ComparingObjects.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\05. ComparingObjects\obj\Debug\_05.ComparingObjects.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\05. ComparingObjects\obj\Debug\_05.ComparingObjects.pdb

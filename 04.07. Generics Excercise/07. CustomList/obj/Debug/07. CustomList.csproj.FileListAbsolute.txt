@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.07. Generics Excercise\07. CustomList\bin\Debug\_07.CustomList.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.07. Generics Excercise\07. CustomList\obj\Debug\07. CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.07. Generics Excercise\07. CustomList\bin\Debug\_07.CustomList.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.07. Generics Excercise\07. CustomList\bin\Debug\_07.CustomList.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.07. Generics Excercise\07. CustomList\obj\Debug\_07.CustomList.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\04.07. Generics Excercise\07. CustomList\obj\Debug\_07.CustomList.pdb

@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\08. PetClinics\bin\Debug\_08.PetClinics.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\08. PetClinics\bin\Debug\_08.PetClinics.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\08. PetClinics\bin\Debug\_08.PetClinics.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\08. PetClinics\obj\Debug\08. PetClinics.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\08. PetClinics\obj\Debug\_08.PetClinics.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\06. Iterators Excercise\08. PetClinics\obj\Debug\_08.PetClinics.pdb

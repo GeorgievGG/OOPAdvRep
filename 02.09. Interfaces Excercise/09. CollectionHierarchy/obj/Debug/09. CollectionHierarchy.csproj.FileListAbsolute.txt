@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.09. Collection Hierarchy\09. CollectionHierarchy\bin\Debug\_09.CollectionHierarchy.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.09. Collection Hierarchy\09. CollectionHierarchy\bin\Debug\_09.CollectionHierarchy.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.09. Collection Hierarchy\09. CollectionHierarchy\bin\Debug\_09.CollectionHierarchy.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.09. Collection Hierarchy\09. CollectionHierarchy\obj\Debug\09. CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.09. Collection Hierarchy\09. CollectionHierarchy\obj\Debug\_09.CollectionHierarchy.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.09. Collection Hierarchy\09. CollectionHierarchy\obj\Debug\_09.CollectionHierarchy.pdb

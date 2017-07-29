@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.04. Telephony\04. Telephony\bin\Debug\_04.Telephony.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.04. Telephony\04. Telephony\bin\Debug\_04.Telephony.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.04. Telephony\04. Telephony\bin\Debug\_04.Telephony.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.04. Telephony\04. Telephony\obj\Debug\04. Telephony.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.04. Telephony\04. Telephony\obj\Debug\_04.Telephony.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.3. OOP Advanced\OOPAdvancedRep\02.04. Telephony\04. Telephony\obj\Debug\_04.Telephony.pdb
